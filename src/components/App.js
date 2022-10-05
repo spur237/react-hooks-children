@@ -31,6 +31,9 @@ function App() {
           src="https://pbs.twimg.com/profile_images/3022993403/fdae67d800527328cee7a222f048dbbd.jpeg"
         />
       </Container>
+      <Example exampleProp="Hello" textPosition="left">
+        <p>is this real?</p>
+      </Example>
     </div>
   );
 }
